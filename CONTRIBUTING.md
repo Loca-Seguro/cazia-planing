@@ -71,8 +71,4 @@ Para manter a rastreabilidade visual, **sempre** use o seguinte método para vin
 
 Seguindo este guia, garantimos que nosso quadro de Issues reflita o verdadeiro estado e progresso do projeto, facilitando a visualização e o gerenciamento\!
 
------
-
-Este `CONTRIBUTING.md` é completo, direciona o colaborador a usar os templates corretamente e explica a metodologia por trás do seu sistema de Issues.
-
-Gostaria de ajuda para criar um primeiro Épico e algumas Features de exemplo para você testar e popular o seu novo sistema de Issues?
+-
