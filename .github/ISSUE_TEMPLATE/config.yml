@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Guia de Contribuição Ágil
+    url: https://github.com/Loca-Seguro/cazia-planing/blob/main/CONTRIBUTING.md
+    about: Por favor, leia este guia para entender como usamos Épicos, Features e Tasks.
+  - name: Documentação do Projeto
+    url: https://github.com/Loca-Seguro/cazia-planing
+    about: Encontre a documentação mais recente do projeto.
